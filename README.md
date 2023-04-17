@@ -1,8 +1,9 @@
 
 # Analyze financial news with FinBERT
 
-## Project description
 This is an small application that showcases how to get financial news sentiment from Tiingo API and NLP pretrained models. 
+
+## Project description
 
 * Download news from Tiingo API within the desired dates range for the selected tickers.
 * Load the FinBERT pretrained model from Hugging Face model hub and use it to score each piece of news.
