@@ -20,6 +20,6 @@ This is an small application that showcases how to get financial news sentiment 
 <br>
 
 # FinBERT: Financial Sentiment Analysis with BERT
-FinBERT sentiment analysis model is available on Hugging Face model hub. [Check out their repo](https://github.com/PabloCanovas/finBERT)
+FinBERT sentiment analysis model is available on Hugging Face model hub. [Check out their repo](https://github.com/PabloCanovas/finBERT).
 
 FinBERT is a pre-trained NLP model to analyze sentiment of financial text. It is built by further training the BERT language model in the finance domain, using a large financial corpus and thereby fine-tuning it for financial sentiment classification. For the details, please see FinBERT: Financial Sentiment Analysis with Pre-trained Language Models.
